@@ -4,7 +4,8 @@
   "description": "Textbook rent backend",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server":"nodemon index.js"
   },
   "author": "Prince,Shashank,Ankit,Mohit",
   "license": "ISC",
