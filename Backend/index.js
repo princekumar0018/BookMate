@@ -3,7 +3,7 @@ const app=express();
 app.use(cors());
 
 app.use('/',(req,res)=>{
-    res.send("Site Is working");
+    res.send("Site Is ");
 });
 
 const port=process.env.PORT || 3000;
